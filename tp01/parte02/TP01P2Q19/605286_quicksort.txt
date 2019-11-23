@@ -1,0 +1,1 @@
+605286	Tempo de execução: 0.000126 s.	Quantidade de comparações: 304
