@@ -1,0 +1,199 @@
+[ 96(França) 40(Chile) 227(Brasil) 140(Argentina) 8(Alemanha Oriental) 218(Alemanha) 2(Angola) 9(Austrália) 12(Argélia) 8(Arábia Saudita) 1(Bolivia) 51(Bélgica) 17(Bulgária) 19(Camarões) 3(Bósnia e Herzegovna) 0(Canadá) 2(Egito) 24(Coreia do Sul) 23(Colômbia) 0(China) 4(Coreia do Norte) 4(Cuba) 10(Costa do Marfim) 19(Costa Rica) 23(Croácia) 26(Dinamarca) 19(Escócia) 0(Emirados Arabes) 0(El Salvador) 13(Equador) 99(Espanha) 4(Eslovênia) 4(Eslováquia) 30(Estados Unidos) 31(Paraguai) 156(Itália) 98(Inglaterra) 93(Holanda) 8(Grécia) 15(Gana) 0(Haiti) 48(Hungria) 3(Honduras) 0(Indonésia) 6(Irã) 14(Irlanda) 0(Iraque) 14(Irlanda do Norte) 2(Israel) 56(México) 1(Kuwait) 16(Japão) 3(Jamaica) 10(Marrocos) 9(Noruega) 18(Nigéria) 3(Nova Zelândia) 59(Sérvia) 29(Romênia) 50(Polônia) 15(Peru) 6(País de Gales) 41(República Tcheca) 43(Portugal) 61(Suécia) 59(Rússia) 8(Senegal) 39(Suíça) 72(Uruguai) 7(Tunísia) 1(Trinidad e Tobago) 0(Togo) 16(Turquia) 7(Ucrânia) 10(África do Sul) 0(Zaire) 40(Áustria) ]
+[ 4(Eslovênia) 0(Canadá) 1(Bolivia) 2(Angola) 8(Alemanha Oriental) 9(Austrália) 12(Argélia) 8(Arábia Saudita) 51(Bélgica) 17(Bulgária) 19(Camarões) 3(Bósnia e Herzegovna) 2(Egito) 4(Coreia do Norte) 23(Colômbia) 0(China) 4(Cuba) 10(Costa do Marfim) 19(Costa Rica) 23(Croácia) 26(Dinamarca) 19(Escócia) 0(Emirados Arabes) 0(El Salvador) 13(Equador) 4(Eslováquia) 31(Paraguai) 2(Israel) 0(Indonésia) 93(Holanda) 8(Grécia) 15(Gana) 0(Haiti) 48(Hungria) 3(Honduras) 6(Irã) 14(Irlanda) 0(Iraque) 14(Irlanda do Norte) 10(Marrocos) 1(Kuwait) 3(Jamaica) 9(Noruega) 18(Nigéria) 3(Nova Zelândia) 59(Sérvia) 29(Romênia) 50(Polônia) 15(Peru) 6(País de Gales) 41(República Tcheca) 43(Portugal) 59(Rússia) 8(Senegal) 7(Ucrânia) 7(Tunísia) 1(Trinidad e Tobago) 0(Togo) 16(Turquia) 0(Zaire) 40(Áustria) ]
+Afeganistão raiz esq esq esq esq esq NÃO
+África do Sul raiz dir dir dir dir dir esq NÃO
+Albânia raiz esq esq esq esq esq NÃO
+Alemanha raiz esq esq esq esq esq NÃO
+Andorra raiz esq esq esq esq dir NÃO
+Angola raiz esq esq esq SIM
+Antiga e Barbuda raiz esq esq esq dir esq esq NÃO
+Arábia Saudita raiz esq esq esq dir esq dir SIM
+Argélia raiz esq esq esq dir esq SIM
+Argentina raiz esq esq esq dir esq esq NÃO
+Arménia raiz esq esq esq dir esq dir esq NÃO
+Austrália raiz esq esq esq dir SIM
+Áustria raiz dir dir dir dir dir SIM
+Azerbaijão raiz esq esq esq dir dir NÃO
+Bahamas raiz esq esq esq dir dir NÃO
+Bangladexe raiz esq esq esq dir dir NÃO
+Barbados raiz esq esq esq dir dir NÃO
+Barém raiz esq esq esq dir dir NÃO
+Bélgica raiz esq esq dir SIM
+Belize raiz esq esq esq dir dir NÃO
+Benim raiz esq esq esq dir dir NÃO
+Bielorrússia raiz esq esq esq dir dir NÃO
+Bolívia raiz esq esq dir esq esq NÃO
+Bósnia e Herzegovina raiz esq esq dir dir esq esq NÃO
+Botsuana raiz esq esq dir esq esq NÃO
+Brasil raiz esq esq dir esq esq NÃO
+Brunei raiz esq esq dir esq esq NÃO
+Bulgária raiz esq esq dir esq SIM
+Burquina Faso raiz esq esq dir esq dir NÃO
+Burúndi raiz esq esq dir esq dir NÃO
+Butão raiz esq esq dir esq dir NÃO
+Cabo Verde raiz esq esq dir dir esq dir NÃO
+Camarões raiz esq esq dir dir SIM
+Camboja raiz esq esq dir dir dir NÃO
+Canadá raiz esq SIM
+Catar raiz esq dir esq esq esq esq NÃO
+Cazaquistão raiz esq dir esq esq esq esq NÃO
+Chade raiz esq dir esq esq esq esq NÃO
+Chile raiz esq dir esq esq esq esq NÃO
+China raiz esq dir esq esq esq SIM
+Chipre raiz esq dir esq esq esq dir NÃO
+Colômbia raiz esq dir esq esq SIM
+Comores raiz esq dir esq esq dir NÃO
+Congo-Brazzaville raiz esq dir esq esq dir NÃO
+Coreia do Norte raiz esq dir esq SIM
+Coreia do Sul raiz esq dir esq dir esq esq esq NÃO
+Cosovo raiz esq dir esq dir esq esq esq NÃO
+Costa do Marfim raiz esq dir esq dir esq SIM
+Costa Rica raiz esq dir esq dir esq esq SIM
+Croácia raiz esq dir esq dir esq dir SIM
+Cuaite raiz esq dir esq dir esq dir dir NÃO
+Cuba raiz esq dir esq dir SIM
+Dinamarca raiz esq dir esq dir dir SIM
+Dominica raiz esq dir esq dir dir dir NÃO
+Egito raiz esq dir SIM
+Emirados Árabes Unidos raiz esq dir dir esq dir esq NÃO
+Equador raiz esq dir dir esq dir SIM
+Eritreia raiz esq dir dir esq dir dir NÃO
+Eslováquia raiz esq dir dir dir SIM
+Eslovénia raiz esq dir dir dir dir NÃO
+Espanha raiz dir esq esq esq esq esq esq NÃO
+Estado da Palestina raiz dir esq esq esq esq esq esq NÃO
+Estados Unidos raiz dir esq esq esq esq esq esq NÃO
+Estónia raiz dir esq esq esq esq esq esq NÃO
+Etiópia raiz dir esq esq esq esq esq esq NÃO
+Fiji raiz dir esq esq esq esq esq esq NÃO
+Filipinas raiz dir esq esq esq esq esq esq NÃO
+Finlândia raiz dir esq esq esq esq esq esq NÃO
+França raiz dir esq esq esq esq esq esq NÃO
+Gabão raiz dir esq esq esq esq esq esq NÃO
+Gâmbia raiz dir esq esq esq esq dir esq NÃO
+Gana raiz dir esq esq esq esq esq SIM
+Geórgia raiz dir esq esq esq esq esq dir NÃO
+Granada raiz dir esq esq esq esq esq dir NÃO
+Grécia raiz dir esq esq esq esq SIM
+Guatemala raiz dir esq esq esq esq dir esq NÃO
+Guiana raiz dir esq esq esq esq dir esq NÃO
+Guiné raiz dir esq esq esq esq dir esq NÃO
+Guiné Equatorial raiz dir esq esq esq esq dir esq NÃO
+Guiné-Bissau raiz dir esq esq esq esq dir esq NÃO
+Haiti raiz dir esq esq esq esq dir SIM
+Honduras raiz dir esq esq esq dir esq SIM
+Hungria raiz dir esq esq esq dir SIM
+Iémen raiz dir esq dir esq esq esq NÃO
+Ilhas Marechal raiz dir esq esq esq dir dir NÃO
+Índia raiz dir dir dir dir dir dir NÃO
+Indonésia raiz dir esq esq SIM
+Irão raiz dir esq esq dir dir NÃO
+Iraque raiz dir esq esq dir esq esq SIM
+Irlanda raiz dir esq esq dir esq SIM
+Islândia raiz dir esq esq dir dir NÃO
+Israel raiz dir esq SIM
+Itália raiz dir esq dir esq esq esq NÃO
+Jamaica raiz dir esq dir esq esq SIM
+Japão raiz dir esq dir esq esq dir NÃO
+Jibuti raiz dir esq dir esq esq dir NÃO
+Jordânia raiz dir esq dir esq esq dir NÃO
+Laus raiz dir esq dir esq dir NÃO
+Lesoto raiz dir esq dir esq dir NÃO
+Letónia raiz dir esq dir esq dir NÃO
+Líbano raiz dir esq dir esq dir NÃO
+Libéria raiz dir esq dir esq dir NÃO
+Líbia raiz dir esq dir esq dir NÃO
+Listenstaine raiz dir esq dir esq dir NÃO
+Lituânia raiz dir esq dir esq dir NÃO
+Luxemburgo raiz dir esq dir esq dir NÃO
+Macedónia raiz dir esq dir esq dir NÃO
+Madagáscar raiz dir esq dir esq dir NÃO
+Malásia raiz dir esq dir esq dir NÃO
+Maláui raiz dir esq dir esq dir NÃO
+Maldivas raiz dir esq dir esq dir NÃO
+Mali raiz dir esq dir esq dir NÃO
+Malta raiz dir esq dir esq dir NÃO
+Marrocos raiz dir esq dir SIM
+Maurícia raiz dir esq dir dir esq esq NÃO
+Mauritânia raiz dir esq dir dir esq esq NÃO
+México raiz dir esq dir dir esq esq NÃO
+Mianmar raiz dir esq dir dir esq esq NÃO
+Micronésia raiz dir esq dir dir esq esq NÃO
+Moçambique raiz dir esq dir dir esq esq NÃO
+Moldávia raiz dir esq dir dir esq esq NÃO
+Mónaco raiz dir esq dir dir esq esq NÃO
+Mongólia raiz dir esq dir dir esq esq NÃO
+Montenegro raiz dir esq dir dir esq esq NÃO
+Namíbia raiz dir esq dir dir esq esq NÃO
+Nauru raiz dir esq dir dir esq esq NÃO
+Nepal raiz dir esq dir dir esq esq NÃO
+Nicarágua raiz dir esq dir dir esq esq NÃO
+Níger raiz dir esq dir dir dir dir NÃO
+Nigéria raiz dir esq dir dir esq SIM
+Noruega raiz dir esq dir dir SIM
+Nova Zelândia raiz dir esq dir dir dir SIM
+Omã raiz dir esq dir dir dir dir NÃO
+Países Baixos raiz dir dir esq esq esq esq dir NÃO
+Palau raiz dir esq dir dir dir dir NÃO
+Panamá raiz dir esq dir dir dir dir NÃO
+Papua Nova Guiné raiz dir esq dir dir dir dir NÃO
+Paquistão raiz dir esq dir dir dir dir NÃO
+Paraguai raiz dir SIM
+Peru raiz dir dir esq esq esq SIM
+Polónia raiz dir dir esq esq esq dir NÃO
+Portugal raiz dir dir esq esq dir esq SIM
+Quénia raiz dir dir esq esq dir esq dir NÃO
+Quirguistão raiz dir dir esq esq dir esq dir NÃO
+Quiribáti raiz dir dir esq esq dir esq dir NÃO
+Reino Unido raiz dir dir esq esq dir esq dir NÃO
+República Centro-Africana raiz dir dir esq esq dir esq dir NÃO
+República Democrática do Congo raiz dir dir esq esq dir esq dir NÃO
+República Dominicana raiz dir dir esq esq dir esq dir NÃO
+República Tcheca raiz dir dir esq esq dir SIM
+Roménia raiz dir dir esq esq dir dir NÃO
+Ruanda raiz dir dir esq dir esq NÃO
+Rússia raiz dir dir esq dir SIM
+Salomão raiz dir dir esq dir dir esq NÃO
+Salvador raiz dir dir esq dir dir esq NÃO
+Samoa raiz dir dir esq dir dir esq NÃO
+Santa Lúcia raiz dir dir esq dir dir esq NÃO
+São Cristóvão e Neves raiz dir dir esq dir dir dir NÃO
+São Marinho raiz dir dir esq dir dir dir NÃO
+São Tomé e Príncipe raiz dir dir esq dir dir dir NÃO
+São Vicente e Granadinas raiz dir dir esq dir dir dir NÃO
+Seicheles raiz dir dir esq dir dir esq NÃO
+Senegal raiz dir dir esq dir dir SIM
+Serra Leoa raiz dir dir esq dir dir dir NÃO
+Sérvia raiz dir dir SIM
+Singapura raiz dir dir esq dir dir dir NÃO
+Síria raiz dir dir dir esq esq esq esq NÃO
+Somália raiz dir dir esq dir dir dir NÃO
+Sri Lanca raiz dir dir esq dir dir dir NÃO
+Suazilândia raiz dir dir esq dir dir dir NÃO
+Sudão raiz dir dir esq dir dir dir NÃO
+Sudão do Sul raiz dir dir esq dir dir dir NÃO
+Suécia raiz dir dir esq dir dir dir NÃO
+Suíça raiz dir dir esq dir dir dir NÃO
+Suriname raiz dir dir esq dir dir dir NÃO
+Tailândia raiz dir dir dir esq esq esq esq NÃO
+Taiuã raiz dir dir dir esq esq esq esq NÃO
+Tajiquistão raiz dir dir dir esq esq esq esq NÃO
+Tanzânia raiz dir dir dir esq esq esq esq NÃO
+Timor-Leste raiz dir dir dir esq esq esq esq NÃO
+Togo raiz dir dir dir esq esq esq SIM
+Tonga raiz dir dir dir esq esq esq dir NÃO
+Trindade e Tobago raiz dir dir dir esq esq esq dir NÃO
+Tunísia raiz dir dir dir esq SIM
+Turcomenistão raiz dir dir dir esq dir esq NÃO
+Turquia raiz dir dir dir esq dir SIM
+Tuvalu raiz dir dir dir esq dir dir NÃO
+Ucrânia raiz dir dir dir SIM
+Uganda raiz dir dir dir dir esq NÃO
+Uruguai raiz dir dir dir dir esq NÃO
+Usbequistão raiz dir dir dir dir esq NÃO
+Vanuatu raiz dir dir dir dir esq NÃO
+Vaticano raiz dir dir dir dir esq NÃO
+Venezuela raiz dir dir dir dir esq NÃO
+Vietname raiz dir dir dir dir esq NÃO
+Zâmbia raiz dir dir dir dir dir esq NÃO
+Zimbábue raiz dir dir dir dir dir esq NÃO
