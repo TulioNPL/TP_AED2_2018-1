@@ -1,0 +1,74 @@
+\documentclass[12pt]{article}
+
+\usepackage{sbc-template}
+
+\usepackage{graphicx,url}
+
+%\usepackage{indentfirst}
+
+\usepackage[brazil]{babel}   
+%\usepackage[latin1]{inputenc}  
+\usepackage[utf8]{inputenc}  
+% UTF-8 encoding is recommended by ShareLaTex
+
+
+\sloppy
+
+\title{Teoria da Complexidade Computacional}
+
+\author{Túlio N. P. Lopes\inst{1}}
+
+
+\address{Instituto de Ciências Exatas e Informática -- Pontifica Universidade Católica de Minas Gerais\\
+	Belo Horizonte -- MG -- Brasil
+\email{tulionp.lopes@gmail.com}
+}
+
+\begin{document} 
+	
+	\maketitle
+	
+	%\begin{abstract}
+	%	This meta-paper describes the style to be used in articles and short papers
+	%	for SBC conferences. For papers in English, you should add just an abstract
+	%	while for the papers in Portuguese, we also ask for an abstract in
+	%	Portuguese (``resumo''). In both cases, abstracts should not have more than
+	%	10 lines and must be in the first page of the paper.
+	%\end{abstract}
+	
+	%begin{resumo} 
+	%	Este meta-artigo descreve o estilo a ser usado na confecção de artigos e
+	%	resumos de artigos para publicação nos anais das conferências organizadas
+	%	pela SBC. É solicitada a escrita de resumo e abstract apenas para os artigos
+	%	escritos em português. Artigos em inglês deverão apresentar apenas abstract.
+	%	Nos dois casos, o autor deve tomar cuidado para que o resumo (e o abstract)
+	%	não ultrapassem 10 linhas cada, sendo que ambos devem estar na primeira
+	%	página do artigo.
+	%\end{resumo}
+	
+	
+	A Teoria da Complexidade Computacional é o ramo da informática e matemática que estuda 
+	a melhor forma de resolver tipos específicos de problemas matemáticos com o uso de algoritmos.
+	Diferente da Análise de Algoritmos, a Complexidade Computacional preocupa com a forma geral dos problemas computacionais. Por exemplo, o problema do "caminhão de lixo", amplamente discutido na área da computação, que aumenta seu gasto para ser resolvido por um algoritmo comum de forma exponencial, o que torna inviável o uso desses algoritmos para solucionar as instâncias mais complexas desse tipo de problema.
+	
+	Problemas como o do "caminhão de lixo" são classificados como NP, do inglês, {\it Non-Deterministic Polynomial time}, que significa "Tempo polinomial não determinístico". Isso quer dizer que esses problemas não são solucionados em um tempo viável por computadores como os que existem hoje, incluindo os mais potentes. Já problemas que são solúveis em tempo crível são classificados como problemas P, do inglês, {\it Deterministic Polynomial time}, que significa "Tempo polinomial determinístico". Esses podem ser resolvidos por algoritmos comuns, cujo tempo de execução pode ser descrito pela fórmula $O(n^{k})$, sendo K igual ou maior que o maior expoente da função que determina o problema.
+	
+	
+	Há também a subclasse de problemas NP-Completo, que são o tipo de problema mais complexos da classe NP, o que os tornam o foco dos estudos da Teoria da Complexidade Computacional, pois se um problema NP-Completo puder ser solucionado em tempo polinomial, conclui-se que todos os outros problemas NP também seriam, dando um fim às diferenças entre classificações P e NP. Ainda não há uma solução para "P versus NP", mas acredita-se que se tratam de problemas diferentes, pois muitos foram os estudos a cerca desse assunto pela comunidade científica, e ainda não foi possível achar uma resposta para a pergunta. Por outro lado, a principal razão para os que creem em "P = NP", é o curto tempo em que esses problemas surgiram e passaram a ser estudados. 
+	
+
+	
+	%\section{References}
+	
+	%Bibliographic references must be unambiguous and uniform.  We recommend giving
+	%the author names references in brackets, e.g. \cite{knuth:84},
+	%\cite{boulic:91}, and \cite{smith:99}.
+	
+	%The references must be listed using 12 point font size, with 6 points of space
+	%before each reference. The first line of each reference should not be
+	%indented, while the subsequent should be indented by 0.5 cm.
+	
+	%\bibliographystyle{sbc}
+	%\bibliography{sbc-template}
+	
+\end{document}
