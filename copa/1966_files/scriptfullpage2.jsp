@@ -1,0 +1,2 @@
+/* c okey */ (function(){ hotwords.core.Mediator.publish('Fullpage.displayed', false); }());  (function(){ hotwords.core.Mediator.publish('Fullpage.closed', true); }()); 
+(function(){ var fn = (typeof _hwCb === 'object' && typeof _hwCb['noFP'] === 'function') ? _hwCb['noFP'] : function(){}; fn(); })(); 

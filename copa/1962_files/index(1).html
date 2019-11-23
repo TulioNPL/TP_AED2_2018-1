@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!-- saved from url=(0152)https://s0.2mdn.net/ads/richmedia/studio/pv2/60369615/20171018111025710/728x90/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=slcGwGgcNO&t=1 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="viewport" content="minimum-scale=1.0, maximum-scale=1.0, width=device-width, user-scalable=no">	
+	<meta name="ad.size" content="width=728,height=90">
+	<title>Banner - 728x90</title>
+	<link rel="stylesheet" href="./typography.css">
+	<link rel="stylesheet" href="./elements.css">
+	<link rel="stylesheet" href="./animate.css">
+  	<script src="./Enabler_01_196.js"></script>
+	<script src="./core.js"></script>
+	<script src="./animate.js"></script>
+	<script>
+		window.onload = function(e){ 
+			if (Enabler.isInitialized()) {
+			    initEnabler();
+			} else {
+			    Enabler.addEventListener(studio.events.StudioEvent.INIT, initEnabler);
+			}
+		}
+
+		// Runs when Enabler is ready.
+		function initEnabler() {
+		    if (Enabler.isPageLoaded()) {
+		        politeInit();
+		    } else {
+		        Enabler.addEventListener(studio.events.StudioEvent.PAGE_LOADED, politeInit);
+		    }
+		};
+
+		// Runs when the page is completely loaded.  
+		function politeInit() {
+		    // Add your code to load creative assets or begin creative animation.
+		    loadEnablerInfos();
+		    pageLoadedHandler();
+		};
+
+		//IS VISIBLE
+		function pageLoadedHandler() {
+		    if (Enabler.isVisible()) {
+		        adVisibilityHandler();
+		    } else {
+		        Enabler.addEventListener(studio.events.StudioEvent.VISIBLE, adVisibilityHandler);
+		    }
+		}
+
+		function adVisibilityHandler() {
+		    // Load in additional assets or start the animation/video
+		    initConfig();
+		}
+	</script>
+</head>
+<body>
+	<div id="banner" class="cortina_out">
+		<div class="hitArea"></div>
+	
+
+<!-- START -->
+
+<!-- ########## BGs ########## -->
+
+<div class="bg_2 all_in" style="background: url(&quot;https://s0.2mdn.net/dynamic/2/10029870/dev.amad.re/VW/v4/insti_space_fox_728x90_2.jpg_1507572985245_insti_space_fox_728x90_2.jpg&quot;) no-repeat;"></div>
+<div class="bg_2_2"></div>
+<div class="bg_1 all_in all_out" style="background-color: rgb(0, 0, 0);"></div>
+
+<!-- ########## STEP1 ########## -->
+
+<div class="txt_1_1 all_in all_out" style="top: 36px; left: 76px;">Pode sonhar alto. Nos carros Volkswagen, <b>cabem todos</b> os seus planos.</div>
+<div class="txt_1_1_image all_in all_out" style="display: none; top: 45px;">Pode sonhar alto. Nos carros Volkswagen, <b>cabem todos</b> os seus planos.</div>
+<div class="logo_vw_1 scale_in" style="background: url(&quot;https://s0.2mdn.net/dynamic/2/10029870/dev.amad.re/VW/v4/_logo/logo_vw.png_1506084992288_logo_vw.png&quot;) 0% 0% / 100% no-repeat;"></div>
+
+<!-- ########## STEP2 ########## -->
+
+<div class="cta_txt cta_in" style="top: 28px; left: 502px;">Clique e conheça</div>
+<div class="txt_2_1 all_in" style="top: 27px;">Conheça todo o espaço da <b>Volkswagen.</b></div>
+
+<div class="preloaderMain" style="background-image: url(&quot;assets/images/_loader4.gif&quot;); position: absolute; z-index: 9999999; background-size: 100%; width: 50px; height: 50px; background-repeat: no-repeat; left: 50%; top: 50%; transform: translate(-50%, -50%); transition: all 1s cubic-bezier(0.215, 0.61, 0.355, 1); opacity: 0;"></div>
+
+<!-- END -->
+
+
+	</div>
+
+</body></html>

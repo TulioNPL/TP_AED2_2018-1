@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<!-- saved from url=(0071)https://s0.2mdn.net/6993471/1513188998165/DCRM_HTML5_Inapp_300x250.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- Studio Enabler Required -->
+	<script src="./Enabler.js" type="text/javascript"></script>
+	<link rel="stylesheet" type="text/css" href="./DCRM_HTML5_Inapp_300x250.css">
+    <script src="./DCRM_HTML5_Inapp_300x250.js" type="text/javascript"></script>
+	
+
+	<script type="text/javascript">
+  var clickTag="http://www.google.com";
+  function openURL()
+  	{
+		window.open(window.clickTag);
+	}
+</script>
+
+<script type="text/javascript">
+    
+      (function() {
+        var relegateNavigation = '';
+        var handleClickTagMessage = function(e) {
+          try {
+            var eventData = JSON.parse(e.data);
+          } catch (err) {
+            return;
+          }
+          if (eventData.isInitClickTag) {
+            if (eventData.clickTags) {
+              for (var i = 0; i < eventData.clickTags.length; i++) {
+                var clkTag = eventData.clickTags[i];
+                window[clkTag.name] = clkTag.url;
+              }
+            } else if (eventData.clickTag) {
+              window.clickTag = eventData.clickTag;
+            }
+            relegateNavigation = eventData.relegateNavigation;
+          }
+        };
+
+        if (open.call) {
+          window.open = function(open) {
+            return function(url, name, features) {
+              if (relegateNavigation === 'parent') {
+                var message = {'clickTag': url, 'isPostClickTag': true};
+                parent.postMessage(JSON.stringify(message), '*');
+              } else {
+                var args = [url, name];
+                if (features) {
+                  args.push(features);
+                }
+                open.apply(window, args);
+              }
+            };
+          }(window.open);
+        }
+
+        if (window.addEventListener) {
+          window.addEventListener(
+              'message', handleClickTagMessage, false);
+        } else {
+          window.attachEvent('onmessage', handleClickTagMessage);
+        }
+      })();
+    
+  </script></head>
+
+<body>
+    <div id="container_dc" style="display: block;">
+    <a href="javascript:openURL()">
+        <div id="content_dc">
+					<img src="./bg.jpg">
+					<img src="./logo.png" class="logo animated zoomInDown">
+					<img src="./cpy1.png" class="cpy1 animated fadeInRight animated-delay-2">
+					<img src="./cpy2.png" class="cpy2 animated fadeInLeft animated-delay-2">
+					<img src="./cpy3.png" class="cpy3 animated jackInTheBox animated-delay-3">
+					<img src="./btn.png" class="btn animated zoomInUp animated-delay-4">
+					<img src="./marco.png" class="marco">
+					<button id="background_exit_dc"></button>
+        </div>
+   </a></div><a href="javascript:openURL()">
+   </a>
+
+
+</body></html>
