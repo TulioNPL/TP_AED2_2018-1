@@ -1,1 +1,0 @@
- (function(){ hotwords.core.Mediator.publish('Richmedia.closed', true); }()); 
